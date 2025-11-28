@@ -11,5 +11,5 @@ b = 32321
 
 gcd, c1, c2 = eea(a,b)
 print("GCD: ",gcd)
-print("Coefficient: ",c1)
+print("Coefficient: ",c1) #modular inverse
 print("Coefficient: ",c2)
